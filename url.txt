@@ -30,6 +30,7 @@ https://github.com/manojpandey/flasky.git
 https://github.com/manojpandey/free-programming-books.git
 https://github.com/manojpandey/gdg-cloud.git
 https://github.com/manojpandey/ghp.git
+https://github.com/manojpandey/ghterm.git
 https://github.com/manojpandey/github-cloner.git
 https://github.com/manojpandey/hackinout.git
 https://github.com/manojpandey/IPU-Result-Checker.git

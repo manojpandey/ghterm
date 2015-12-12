@@ -83,11 +83,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/2048/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/2048/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/2048/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/2048/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/admin-front/issues{/number}",
@@ -174,11 +169,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/admin-front/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/admin-front/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/admin-front/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/admin-front/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/Algorithms/issues{/number}",
@@ -265,11 +255,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/Algorithms/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/Algorithms/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/Algorithms/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/Algorithms/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/awesome-courses/issues{/number}",
@@ -356,11 +341,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/awesome-courses/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/awesome-courses/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/awesome-courses/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/awesome-courses/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/boilerplates/issues{/number}",
@@ -447,11 +427,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/boilerplates/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/boilerplates/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/boilerplates/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/boilerplates/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/bootstrap/issues{/number}",
@@ -538,11 +513,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/bootstrap/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/bootstrap/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/bootstrap/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/bootstrap/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/bplate/issues{/number}",
@@ -629,11 +599,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/bplate/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/bplate/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/bplate/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/bplate/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/byldathon2015/issues{/number}",
@@ -720,11 +685,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/byldathon2015/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/byldathon2015/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/byldathon2015/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/byldathon2015/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/CodeForces-Code-Downloader/issues{/number}",
@@ -811,11 +771,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/CodeForces-Code-Downloader/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/CodeForces-Code-Downloader/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/CodeForces-Code-Downloader/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/CodeForces-Code-Downloader/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/codejam15/issues{/number}",
@@ -902,11 +857,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/codejam15/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/codejam15/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/codejam15/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/codejam15/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/CodeSprint_India_2014/issues{/number}",
@@ -993,11 +943,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/CodeSprint_India_2014/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/CodeSprint_India_2014/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/CodeSprint_India_2014/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/CodeSprint_India_2014/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/coding-entertainment/issues{/number}",
@@ -1084,11 +1029,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/coding-entertainment/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/coding-entertainment/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/coding-entertainment/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/coding-entertainment/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/cohack/issues{/number}",
@@ -1175,11 +1115,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/cohack/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/cohack/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/cohack/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/cohack/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/competitive/issues{/number}",
@@ -1266,11 +1201,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/competitive/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/competitive/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/competitive/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/competitive/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/conway/issues{/number}",
@@ -1357,11 +1287,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/conway/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/conway/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/conway/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/conway/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/crawl-so/issues{/number}",
@@ -1448,11 +1373,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/crawl-so/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/crawl-so/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/crawl-so/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/crawl-so/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/d3/issues{/number}",
@@ -1539,11 +1459,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/d3/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/d3/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/d3/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/d3/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/datasciencecoursera/issues{/number}",
@@ -1630,11 +1545,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/datasciencecoursera/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/datasciencecoursera/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/datasciencecoursera/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/datasciencecoursera/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/datasharing/issues{/number}",
@@ -1721,11 +1631,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/datasharing/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/datasharing/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/datasharing/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/datasharing/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/demo/issues{/number}",
@@ -1812,11 +1717,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/demo/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/demo/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/demo/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/demo/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/dotfiles/issues{/number}",
@@ -1903,11 +1803,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/dotfiles/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/dotfiles/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/dotfiles/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/dotfiles/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/draft/issues{/number}",
@@ -1994,11 +1889,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/draft/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/draft/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/draft/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/draft/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/dswiki/issues{/number}",
@@ -2085,11 +1975,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/dswiki/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/dswiki/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/dswiki/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/dswiki/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/etcs-211/issues{/number}",
@@ -2176,11 +2061,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/etcs-211/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/etcs-211/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/etcs-211/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/etcs-211/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/ExC0d3.github.io/issues{/number}",
@@ -2267,11 +2147,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/ExC0d3.github.io/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/ExC0d3.github.io/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/ExC0d3.github.io/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/ExC0d3.github.io/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/fb-terminal/issues{/number}",
@@ -2358,11 +2233,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/fb-terminal/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/fb-terminal/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/fb-terminal/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/fb-terminal/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/fb-thanker/issues{/number}",
@@ -2449,11 +2319,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/fb-thanker/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/fb-thanker/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/fb-thanker/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/fb-thanker/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/flask-blog/issues{/number}",
@@ -2540,11 +2405,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/flask-blog/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/flask-blog/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/flask-blog/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/flask-blog/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/flasky/issues{/number}",
@@ -2631,11 +2491,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/flasky/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/flasky/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/flasky/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/flasky/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/free-programming-books/issues{/number}",
@@ -2722,11 +2577,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/free-programming-books/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/free-programming-books/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/free-programming-books/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/free-programming-books/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/gdg-cloud/issues{/number}",
@@ -2813,11 +2663,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/gdg-cloud/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/gdg-cloud/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/gdg-cloud/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/gdg-cloud/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/ghp/issues{/number}",
@@ -2904,12 +2749,93 @@
     "trees_url": "https://api.github.com/repos/manojpandey/ghp/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/ghp/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/ghp/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/ghp/stargazers"
+}, {
+    "issues_url": "https://api.github.com/repos/manojpandey/ghterm/issues{/number}",
+    "stargazers_count": 0,
+    "forks_url": "https://api.github.com/repos/manojpandey/ghterm/forks",
+    "mirror_url": null,
+    "subscription_url": "https://api.github.com/repos/manojpandey/ghterm/subscription",
+    "notifications_url": "https://api.github.com/repos/manojpandey/ghterm/notifications{?since,all,participating}",
+    "collaborators_url": "https://api.github.com/repos/manojpandey/ghterm/collaborators{/collaborator}",
+    "updated_at": "2015-12-12T08:47:56Z",
+    "private": false,
+    "pulls_url": "https://api.github.com/repos/manojpandey/ghterm/pulls{/number}",
+    "issue_comment_url": "https://api.github.com/repos/manojpandey/ghterm/issues/comments{/number}",
+    "labels_url": "https://api.github.com/repos/manojpandey/ghterm/labels{/name}",
+    "has_wiki": true,
+    "full_name": "manojpandey/ghterm",
+    "owner": {
+        "following_url": "https://api.github.com/users/manojpandey/following{/other_user}",
+        "events_url": "https://api.github.com/users/manojpandey/events{/privacy}",
+        "organizations_url": "https://api.github.com/users/manojpandey/orgs",
+        "url": "https://api.github.com/users/manojpandey",
+        "gists_url": "https://api.github.com/users/manojpandey/gists{/gist_id}",
+        "html_url": "https://github.com/manojpandey",
+        "subscriptions_url": "https://api.github.com/users/manojpandey/subscriptions",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4750240?v=3",
+        "repos_url": "https://api.github.com/users/manojpandey/repos",
+        "received_events_url": "https://api.github.com/users/manojpandey/received_events",
+        "gravatar_id": "",
+        "starred_url": "https://api.github.com/users/manojpandey/starred{/owner}{/repo}",
+        "site_admin": false,
+        "login": "manojpandey",
+        "type": "User",
+        "id": 4750240,
+        "followers_url": "https://api.github.com/users/manojpandey/followers"
+    },
+    "statuses_url": "https://api.github.com/repos/manojpandey/ghterm/statuses/{sha}",
+    "id": 47870976,
+    "keys_url": "https://api.github.com/repos/manojpandey/ghterm/keys{/key_id}",
+    "description": "Github from terminal",
+    "tags_url": "https://api.github.com/repos/manojpandey/ghterm/tags",
+    "downloads_url": "https://api.github.com/repos/manojpandey/ghterm/downloads",
+    "assignees_url": "https://api.github.com/repos/manojpandey/ghterm/assignees{/user}",
+    "contents_url": "https://api.github.com/repos/manojpandey/ghterm/contents/{+path}",
+    "has_pages": false,
+    "git_refs_url": "https://api.github.com/repos/manojpandey/ghterm/git/refs{/sha}",
+    "open_issues_count": 0,
+    "clone_url": "https://github.com/manojpandey/ghterm.git",
+    "watchers_count": 0,
+    "git_tags_url": "https://api.github.com/repos/manojpandey/ghterm/git/tags{/sha}",
+    "milestones_url": "https://api.github.com/repos/manojpandey/ghterm/milestones{/number}",
+    "languages_url": "https://api.github.com/repos/manojpandey/ghterm/languages",
+    "size": 25,
+    "homepage": null,
+    "fork": false,
+    "commits_url": "https://api.github.com/repos/manojpandey/ghterm/commits{/sha}",
+    "releases_url": "https://api.github.com/repos/manojpandey/ghterm/releases{/id}",
+    "issue_events_url": "https://api.github.com/repos/manojpandey/ghterm/issues/events{/number}",
+    "archive_url": "https://api.github.com/repos/manojpandey/ghterm/{archive_format}{/ref}",
+    "comments_url": "https://api.github.com/repos/manojpandey/ghterm/comments{/number}",
+    "events_url": "https://api.github.com/repos/manojpandey/ghterm/events",
+    "contributors_url": "https://api.github.com/repos/manojpandey/ghterm/contributors",
+    "html_url": "https://github.com/manojpandey/ghterm",
+    "forks": 0,
+    "compare_url": "https://api.github.com/repos/manojpandey/ghterm/compare/{base}...{head}",
+    "open_issues": 0,
+    "git_url": "git://github.com/manojpandey/ghterm.git",
+    "svn_url": "https://github.com/manojpandey/ghterm",
+    "merges_url": "https://api.github.com/repos/manojpandey/ghterm/merges",
+    "has_issues": true,
+    "ssh_url": "git@github.com:manojpandey/ghterm.git",
+    "blobs_url": "https://api.github.com/repos/manojpandey/ghterm/git/blobs{/sha}",
+    "git_commits_url": "https://api.github.com/repos/manojpandey/ghterm/git/commits{/sha}",
+    "hooks_url": "https://api.github.com/repos/manojpandey/ghterm/hooks",
+    "has_downloads": true,
+    "watchers": 0,
+    "name": "ghterm",
+    "language": "Python",
+    "url": "https://api.github.com/repos/manojpandey/ghterm",
+    "created_at": "2015-12-12T08:45:02Z",
+    "pushed_at": "2015-12-12T08:47:55Z",
+    "forks_count": 0,
+    "default_branch": "master",
+    "teams_url": "https://api.github.com/repos/manojpandey/ghterm/teams",
+    "trees_url": "https://api.github.com/repos/manojpandey/ghterm/git/trees{/sha}",
+    "branches_url": "https://api.github.com/repos/manojpandey/ghterm/branches{/branch}",
+    "subscribers_url": "https://api.github.com/repos/manojpandey/ghterm/subscribers",
+    "stargazers_url": "https://api.github.com/repos/manojpandey/ghterm/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/github-cloner/issues{/number}",
     "stargazers_count": 0,
@@ -2995,11 +2921,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/github-cloner/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/github-cloner/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/github-cloner/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/github-cloner/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/hackinout/issues{/number}",
@@ -3086,11 +3007,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/hackinout/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/hackinout/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/hackinout/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/hackinout/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/IPU-Result-Checker/issues{/number}",
@@ -3177,11 +3093,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/IPU-Result-Checker/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/IPU-Result-Checker/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/IPU-Result-Checker/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/IPU-Result-Checker/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/ISP-login/issues{/number}",
@@ -3268,11 +3179,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/ISP-login/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/ISP-login/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/ISP-login/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/ISP-login/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/learnGitBranching/issues{/number}",
@@ -3359,11 +3265,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/learnGitBranching/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/learnGitBranching/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/learnGitBranching/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/learnGitBranching/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/libnum/issues{/number}",
@@ -3450,11 +3351,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/libnum/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/libnum/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/libnum/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/libnum/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/manojpandey.github.io/issues{/number}",
@@ -3541,11 +3437,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/manojpandey.github.io/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/manojpandey.github.io/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/manojpandey.github.io/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/manojpandey.github.io/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/maximal/issues{/number}",
@@ -3632,11 +3523,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/maximal/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/maximal/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/maximal/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/maximal/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/mci-scraper/issues{/number}",
@@ -3723,11 +3609,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/mci-scraper/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/mci-scraper/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/mci-scraper/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/mci-scraper/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/mci-scraper-1/issues{/number}",
@@ -3814,11 +3695,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/mci-scraper-1/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/mci-scraper-1/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/mci-scraper-1/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/mci-scraper-1/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/mediatool/issues{/number}",
@@ -3905,11 +3781,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/mediatool/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/mediatool/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/mediatool/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/mediatool/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/microblog/issues{/number}",
@@ -3996,11 +3867,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/microblog/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/microblog/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/microblog/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/microblog/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/Nodemailer/issues{/number}",
@@ -4087,11 +3953,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/Nodemailer/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/Nodemailer/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/Nodemailer/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/Nodemailer/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/personal-sites/issues{/number}",
@@ -4178,11 +4039,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/personal-sites/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/personal-sites/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/personal-sites/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/personal-sites/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/Prog_Challenges/issues{/number}",
@@ -4269,11 +4125,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/Prog_Challenges/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/Prog_Challenges/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/Prog_Challenges/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/Prog_Challenges/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/Projects/issues{/number}",
@@ -4360,11 +4211,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/Projects/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/Projects/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/Projects/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/Projects/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/pycrumbs/issues{/number}",
@@ -4451,11 +4297,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/pycrumbs/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/pycrumbs/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/pycrumbs/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/pycrumbs/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/pydelhi-redesign/issues{/number}",
@@ -4542,11 +4383,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/pydelhi-redesign/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/pydelhi-redesign/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/pydelhi-redesign/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/pydelhi-redesign/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/python-deauth/issues{/number}",
@@ -4633,11 +4469,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/python-deauth/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/python-deauth/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/python-deauth/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/python-deauth/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/rails-todo/issues{/number}",
@@ -4724,11 +4555,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/rails-todo/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/rails-todo/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/rails-todo/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/rails-todo/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/repo-fetch/issues{/number}",
@@ -4815,11 +4641,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/repo-fetch/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/repo-fetch/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/repo-fetch/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/repo-fetch/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/scikit-learn/issues{/number}",
@@ -4906,11 +4727,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/scikit-learn/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/scikit-learn/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/scikit-learn/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/scikit-learn/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/scrapy/issues{/number}",
@@ -4997,11 +4813,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/scrapy/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/scrapy/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/scrapy/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/scrapy/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/setup/issues{/number}",
@@ -5088,11 +4899,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/setup/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/setup/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/setup/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/setup/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/shakepay/issues{/number}",
@@ -5179,11 +4985,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/shakepay/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/shakepay/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/shakepay/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/shakepay/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/slack-typeform/issues{/number}",
@@ -5270,11 +5071,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/slack-typeform/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/slack-typeform/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/slack-typeform/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/slack-typeform/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/slate/issues{/number}",
@@ -5361,11 +5157,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/slate/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/slate/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/slate/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/slate/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/socket-chat/issues{/number}",
@@ -5452,11 +5243,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/socket-chat/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/socket-chat/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/socket-chat/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/socket-chat/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/sort/issues{/number}",
@@ -5543,11 +5329,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/sort/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/sort/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/sort/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/sort/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/stanford-algo-1/issues{/number}",
@@ -5634,11 +5415,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/stanford-algo-1/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/stanford-algo-1/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/stanford-algo-1/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/stanford-algo-1/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/stanford-algo-2/issues{/number}",
@@ -5725,11 +5501,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/stanford-algo-2/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/stanford-algo-2/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/stanford-algo-2/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/stanford-algo-2/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/tedxmsit/issues{/number}",
@@ -5816,11 +5587,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/tedxmsit/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/tedxmsit/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/tedxmsit/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/tedxmsit/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/the_silver_searcher/issues{/number}",
@@ -5907,11 +5673,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/the_silver_searcher/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/the_silver_searcher/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/the_silver_searcher/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/the_silver_searcher/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/utility/issues{/number}",
@@ -5998,11 +5759,6 @@
     "trees_url": "https://api.github.com/repos/manojpandey/utility/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/utility/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/utility/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/utility/stargazers"
 }, {
     "issues_url": "https://api.github.com/repos/manojpandey/zeblet-landing/issues{/number}",
@@ -6089,10 +5845,5 @@
     "trees_url": "https://api.github.com/repos/manojpandey/zeblet-landing/git/trees{/sha}",
     "branches_url": "https://api.github.com/repos/manojpandey/zeblet-landing/branches{/branch}",
     "subscribers_url": "https://api.github.com/repos/manojpandey/zeblet-landing/subscribers",
-    "permissions": {
-        "admin": true,
-        "push": true,
-        "pull": true
-    },
     "stargazers_url": "https://api.github.com/repos/manojpandey/zeblet-landing/stargazers"
 }]

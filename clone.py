@@ -9,7 +9,7 @@ if len(sys.argv) < 2:
 	sys.exit(1) 
 
 username = sys.argv[1]
-token = "a2e6eb20283eba576de4ad2bcc53471c9c46e14b"
+token = ""
 
 baseURL = "https://api.github.com/users/"+ username
 
@@ -19,16 +19,17 @@ responseData = response.json()
 print "Hello, " , responseData['name']
 
 repoURL = baseURL + "/repos"
-parameters = { "access_token" : token, "per_page" : "200" }
+parameters = { "per_page" : "200" }
 response = requests.get(repoURL, params=parameters)
 responseData = response.json()
 
 with open("data.json", 'w') as outfile: 
 	json.dump(responseData, outfile)
 
-with open("url.txt", "w") as outfile:
+with open("url.txt", "w") as urlFile, open("repoNames.txt", "w") as nameFile:
 	for key in responseData:
-		outfile.write(key['clone_url'] + "\n")
+		urlFile.write(key['clone_url'] + "\n")
+		nameFile.write(key['name'] + "\n")
 
 urllist = [line.rstrip('\n') for line in open('url.txt', 'r')]
 
@@ -47,6 +48,5 @@ print "Directory changed successfully %s" % retval
 
 for cloneURL in urllist:
 	subprocess.call(["git", "clone", cloneURL])
-
 
 print "Done!"

@@ -1,52 +1,61 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import requests
 import json
 import os, sys
 import subprocess
 import getpass
 
-if len(sys.argv) < 2:
-	print 'Try again with username'
-	sys.exit(1) 
+def main ():
+	
+	'''TODO: make more modular'''
 
-username = sys.argv[1]
-token = ""
+	if len(sys.argv) < 2:
+		print 'Try again with username'
+		sys.exit(1) 
 
-baseURL = "https://api.github.com/users/"+ username
+	username = sys.argv[1]
+	token = ""
 
-response = requests.get(baseURL)
-responseData = response.json()
+	baseURL = "https://api.github.com/users/"+ username
 
-print "Hello, " , responseData['name']
+	response = requests.get(baseURL)
+	responseData = response.json()
 
-repoURL = baseURL + "/repos"
-parameters = { "per_page" : "200" }
-response = requests.get(repoURL, params=parameters)
-responseData = response.json()
+	print "Hello, " , responseData['name']
 
-with open("data.json", 'w') as outfile: 
-	json.dump(responseData, outfile)
+	repoURL = baseURL + "/repos"
+	parameters = { "per_page" : "200" }
+	response = requests.get(repoURL, params=parameters)
+	responseData = response.json()
 
-with open("url.txt", "w") as urlFile, open("repoNames.txt", "w") as nameFile:
-	for key in responseData:
-		urlFile.write(key['clone_url'] + "\n")
-		nameFile.write(key['name'] + "\n")
+	with open("data.json", 'w') as outfile: 
+		json.dump(responseData, outfile)
 
-urllist = [line.rstrip('\n') for line in open('url.txt', 'r')]
+	with open("url.txt", "w") as urlFile, open("repoNames.txt", "w") as nameFile:
+		for key in responseData:
+			urlFile.write(key['clone_url'] + "\n")
+			nameFile.write(key['name'] + "\n")
 
-# '''
-path = "/home/" + getpass.getuser() + "/Development/github"
-print "Path: ", path
+	urllist = [line.rstrip('\n') for line in open('url.txt', 'r')]
 
-try:
-	os.chdir(path)
-except OSError:
-	os.makedirs(path)
-	os.chdir(path)
+	path = "/home/" + getpass.getuser() + "/Development/github"
+	print "Path: ", path
 
-retval = os.getcwd()
-print "Directory changed successfully %s" % retval
+	try:
+		os.chdir(path)
+	except OSError:
+		os.makedirs(path)
+		os.chdir(path)
 
-for cloneURL in urllist:
-	subprocess.call(["git", "clone", cloneURL])
+	retval = os.getcwd()
+	print "Directory changed successfully %s" % retval
 
-print "Done!"
+	for cloneURL in urllist:
+		subprocess.call(["git", "clone", cloneURL])
+
+	print "Done!"
+
+if __name__ == '__main__':
+	main()
